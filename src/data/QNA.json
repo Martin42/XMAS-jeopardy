@@ -82,5 +82,35 @@
         "question": "Em que país nos encontramos na foto?",
         "answer": "Lituânia",
         "src": "locations/location5"
+    },
+
+    "0_5": {
+        "question": "Que doce típico de natal podemos ver na seguinte figura?",
+        "answer": "Rabanadas",
+        "src": "foods/food1"
+    },
+
+    "1_5": {
+        "question": "Que doce típico de natal podemos ver na seguinte figura?",
+        "answer": "Bolo-Rei Escangalhado",
+        "src": "foods/food2"
+    },
+
+    "2_5": {
+        "question": "Que doce típico de natal podemos ver na seguinte figura?",
+        "answer": "Sonhos",
+        "src": "foods/food3"
+    },
+
+    "3_5": {
+        "question": "Que doce típico de natal podemos ver na seguinte figura?",
+        "answer": "Arroz Doce",
+        "src": "foods/food4"
+    },
+
+    "4_5": {
+        "question": "Que doce típico de natal podemos ver na seguinte figura?",
+        "answer": "Pêras Bêbedas",
+        "src": "foods/food5"
     }
 }
