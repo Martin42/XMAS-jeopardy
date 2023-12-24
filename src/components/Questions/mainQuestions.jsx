@@ -50,7 +50,7 @@ const MainQuestions = () => {
               <TableCell align="center">Cenas de Filmes</TableCell>
               <TableCell align="center">Xmas Trivia</TableCell>
               <TableCell align="center">Jeoguessr</TableCell>
-              <TableCell align="center">Cenas de Filmes</TableCell>
+              <TableCell align="center">Eventos Históricos</TableCell>
               <TableCell align="center">Encher o Bandulho</TableCell>
             </TableRow>
           </TableHead>

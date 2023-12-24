@@ -1,7 +1,7 @@
 .scoreBox {
   position: absolute;
   right: 0;
-  margin-right: 4rem;
+  margin-right: 2rem;
   padding: 1rem;
   border: 2px white solid;
   max-width: 15%;
@@ -15,6 +15,17 @@
 .mainQuestions {
   max-width: 80%;
   padding: 2rem;
+}
+
+.scoreDiv {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 1rem;
+}
+
+.score {
+  text-align: center;
 }
 
 /* MUI related styling */

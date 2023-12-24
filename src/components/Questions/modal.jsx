@@ -42,7 +42,11 @@ const ModalContent = ({ handleCloseModal, clickedCells }) => {
                   <b>Resposta: {questionAndAnswer.answer}</b>
                 </p>
                 <div className="answerButton">
-                  <button type="submit" onClick={handleCloseModal}>
+                  <button
+                    className="button"
+                    type="submit"
+                    onClick={handleCloseModal}
+                  >
                     Continuar
                   </button>
                 </div>
@@ -55,7 +59,11 @@ const ModalContent = ({ handleCloseModal, clickedCells }) => {
             {showAnswer ? (
               ""
             ) : (
-              <button type="submit" onClick={handleShowAnswer}>
+              <button
+                className="button"
+                type="submit"
+                onClick={handleShowAnswer}
+              >
                 Ver Resposta
               </button>
             )}

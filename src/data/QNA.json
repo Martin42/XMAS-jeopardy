@@ -84,6 +84,31 @@
         "src": "locations/location5"
     },
 
+    "0_4": {
+        "question": "Que famoso cientista britânico conhecido por ter sido assaltado por uma maçã, nasceu no 25 de Dezembro de 1642?",
+        "answer": "Isaac Newton"
+    },
+
+    "1_4": {
+        "question": "Que famoso ator/comediante britânico faleceu no dia de Natal?",
+        "answer": "Charlie Chaplin"
+    },
+
+    "2_4": {
+        "question": "No dia 25 de Dezembro de 1941, durante a segunda guerra mundial, Hong Kong rende-se perante que país?",
+        "answer": "Japão"
+    },
+
+    "3_4": {
+        "question": "Durante a semana de natal, que famoso voo espacial fez a primeira órbita à Lua em 1968? ",
+        "answer": "Apollo 8"
+    },
+
+    "4_4": {
+        "question": "Que famoso país foi fundado e dissolvido durante a semana de Natal somando um grande total de 70 anos de existência?",
+        "answer": "União Soviética"
+    },
+
     "0_5": {
         "question": "Que doce típico de natal podemos ver na seguinte figura?",
         "answer": "Rabanadas",

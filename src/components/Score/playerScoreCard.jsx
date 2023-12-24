@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 
 const PlayerScoreCard = ({ handleDeleteTeam, id }) => {
+  const [teamName, setTeamName] = useState("");
   const [score, setScore] = useState(0);
 
   const handlePositive = () => {
@@ -16,21 +17,30 @@ const PlayerScoreCard = ({ handleDeleteTeam, id }) => {
   return (
     <div>
       <div>
-        <p className="scoreLabel">Team {id}</p>
-        <input type="text" placeholder="Team Name" />
+        <input
+          type="text"
+          className="input"
+          placeholder="Team Name"
+          value={teamName}
+          onChange={(e) => setTeamName(e.target.value)}
+        />
+
+        <p className="score">
+          <b>{score}</b>
+        </p>
+        <div className="scoreDiv">
+          <button type="button" onClick={handlePositive}>
+            +
+          </button>
+          <button type="button" onClick={handleNegative}>
+            -
+          </button>
+
+          <button type="button" onClick={() => handleDeleteTeam(id)}>
+            Delete Team
+          </button>
+        </div>
       </div>
-
-      <p className="score">{score}</p>
-      <button type="button" onClick={handlePositive}>
-        +
-      </button>
-      <button type="button" onClick={handleNegative}>
-        -
-      </button>
-
-      <button type="button" onClick={() => handleDeleteTeam(id)}>
-        Delete Team
-      </button>
     </div>
   );
 };

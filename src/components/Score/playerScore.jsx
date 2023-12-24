@@ -20,7 +20,7 @@ const PlayerScore = () => {
         <PlayerScoreCard key={id} id={id} handleDeleteTeam={handleDeleteTeam} />
       ))}
       <button type="button" onClick={handleNewTeam}>
-        Add a new team
+        New Team
       </button>
     </div>
   );
