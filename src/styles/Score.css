@@ -1,0 +1,38 @@
+.scoreBox {
+  position: absolute;
+  right: 0;
+  margin-right: 4rem;
+  padding: 1rem;
+  border: 2px white solid;
+  max-width: 15%;
+}
+
+.scoreTitle {
+  margin-top: 0;
+  text-align: center;
+}
+
+.mainQuestions {
+  max-width: 80%;
+  padding: 2rem;
+}
+
+/* MUI related styling */
+.MuiTableCell-root {
+  color: white !important;
+  font-size: 18px !important;
+  border: 1px white solid;
+}
+
+.MuiTableCell-head {
+  font-weight: bold !important;
+}
+
+.MuiTableCell-body {
+  cursor: pointer;
+}
+
+.MuiTableCell-body:hover {
+  background-color: white !important;
+  color: #304a63 !important;
+}

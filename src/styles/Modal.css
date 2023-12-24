@@ -1,0 +1,30 @@
+.modal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  height: 93vh;
+  width: auto;
+  margin: 3vh;
+  border: white 2px solid;
+  border-radius: 15px;
+  background-color: rgba(245, 245, 245, 0.204);
+}
+
+.question {
+  display: block;
+  font-size: 35px;
+  text-align: center;
+}
+
+.answerButton {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 2rem;
+}
+
+.movieImg {
+  width: 40vw;
+  height: auto;
+}

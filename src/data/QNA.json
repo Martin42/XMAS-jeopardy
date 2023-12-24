@@ -1,0 +1,86 @@
+{
+    "0_1": {
+        "question": "Em que filme podemos encontrar esta cena?",
+        "answer": "Home Alone 2",
+        "src": "movies/movie1"
+    },
+
+    "1_1": {
+        "question": "Em que filme podemos encontrar esta cena?",
+        "answer": "Elf",
+        "src": "movies/movie2"
+    },
+
+    "2_1": {
+        "question": "Em que filme podemos encontrar esta cena?",
+        "answer": "Die Hard",
+        "src": "movies/movie3"
+    },
+
+    "3_1": {
+        "question": "Em que filme podemos encontrar esta cena?",
+        "answer": "O Amor Acontece/Love Actually",
+        "src": "movies/movie4"
+    },
+
+    "4_1": {
+        "question": "Em que filme podemos encontrar esta cena?",
+        "answer": "Música no Coração/The Sound of Music",
+        "src": "movies/movie5"
+    },
+
+    "0_2": {
+        "question": "Quais os 3 presentes oferecidos pelos 3 Reis Magos a Jesus após o seu nascimento?",
+        "answer": "Ouro, incenso e mirra"
+    },
+
+    "1_2": {
+        "question": "Em que país originou a tradição da árvore de natal?",
+        "answer": "Alemanha"
+    },
+
+    "2_2": {
+        "question": "Um em cada três homens espera até este dia para fazer as suas compras de natal",
+        "answer": "Véspera de Natal"
+    },
+
+    "3_2": {
+        "question": "Qual é a refeição tradicional de natal no Japão?",
+        "answer": "Kentucky Fried Chicken"
+    },
+
+    "4_2": {
+        "question": "Que presente de 255 toneladas foi oferecido aos americanos no natal de 1886 proveniente dos franceses?",
+        "answer": "A estátua da liberdade"
+    },
+
+    "0_3": {
+        "question": "Em que cidade nos encontramos na foto?",
+        "answer": "Porto",
+        "src": "locations/location1"
+    },
+
+    "1_3": {
+        "question": "Em que país esta situada a seguinte imagem usada no filme natalício Your Christmas or Mine? Bonus para a cidade!",
+        "answer": "UK - Londres",
+        "src": "locations/location2"
+    },
+
+    "2_3": {
+        "question": "Em que país nos encontramos na foto?",
+        "answer": "USA",
+        "src": "locations/location3"
+    },
+
+    "3_3": {
+        "question": "Em que país nos encontramos na foto? Bonus para a cidade!",
+        "answer": "Bélgica - Bruges",
+        "src": "locations/location4"
+    },
+
+    "4_3": {
+        "question": "Em que país nos encontramos na foto?",
+        "answer": "Lituânia",
+        "src": "locations/location5"
+    }
+}
